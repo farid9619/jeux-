@@ -1,3 +1,8 @@
+#FARID
+#
+#
+
+
 x=input("quel est votre nom ? ")
 print(x)
 y=input("quel est votre choix Mr." + x +"?")
@@ -49,7 +54,3 @@ def comps(a,z):
         reslt="l'ordinateur a gagnÃé"
     return reslt
 print(comps(a,z))
-" amine"
-"""
-
-""""
